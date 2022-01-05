@@ -13,7 +13,7 @@
   
   ##
   
-  <img align="center" alt="banner" style="border-radius:50px;" src="https://media.discordapp.net/attachments/724608520787329065/928419454604439633/whale-anime-ultrawide-city-anime-girls-Hatsune-Miku-underwater-dress-blue-whale-1379483.png?width=1025&height=429">
+  <img align="center" alt="banner" style="border-radius:50px;" src="https://media.discordapp.net/attachments/724608520787329065/928429504316190780/maxresdefault-20.png?width=885&height=498">
   
   ##
  
