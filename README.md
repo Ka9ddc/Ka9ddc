@@ -1,8 +1,8 @@
 ## Hi I'm Ryan, a student who loves productivity and coding!
 <div align="center">
-  <a href="https://github.com/Ka9ddc">
+  <!-- <a href="https://github.com/Ka9ddc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ka9ddc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka9ddc&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka9ddc&layout=compact&langs_count=7&theme=tokyonight"/> -->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ka9ddc-Js" height="30" width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -18,6 +18,15 @@
   <img align="center" alt="Ka9ddc-react" height="30" width="auto" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Ka9ddc-tailwind" height="30" width="auto" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Ka9ddc-vs-code" height="30" width="auto" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+  <!--
+  ##
+  
+  <img align="center" alt="banner" style="border-radius:50px;" src="https://i.pinimg.com/originals/49/3f/75/493f75319e5a916180255094da14c5a5.jpg">
+  
+  ##
+  -->
+ 
 
 <div> 
   <a href="https://ryan-micael.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
