@@ -18,13 +18,7 @@
   <img align="center" alt="Ka9ddc-react" height="30" width="auto" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Ka9ddc-tailwind" height="30" width="auto" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Ka9ddc-vs-code" height="30" width="auto" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  
-  ##
-  
-  <img align="center" alt="banner" style="border-radius:50px;" src="https://i.pinimg.com/originals/49/3f/75/493f75319e5a916180255094da14c5a5.jpg">
-  
-  ##
- 
+
 <div> 
   <a href="https://ryan-micael.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <a href = "mailto:ryanmicaelb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
